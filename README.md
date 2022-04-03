@@ -1,2 +1,2 @@
-# APY-Ventures-React.js-Bootcamp
+# Uretken-Akademi-React.js-Bootcamp
 Üretken Akademi Bootcamp
